@@ -1,0 +1,7 @@
+paho-mqtt
+schedule
+gpiozero
+RPi.GPIO
+picamera2
+adafruit-circuitpython-dht
+pydrive2
