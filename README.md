@@ -9,7 +9,7 @@ https://www.youtube.com/shorts/agyrXt_8QSU
 
 - Jeremy Roos 2332918
 - Jeremy Misola 2330210
-- Andy Le 
+- Andy Le 2330800
 
 ## System Overview
 
